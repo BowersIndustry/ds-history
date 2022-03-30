@@ -21,3 +21,12 @@ p{
 .image{
     float: left;
 }
+
+a{
+    color: black;
+    transition: 150ms;
+}
+
+a:hover{
+    color:rgb(107, 107, 107);
+}
