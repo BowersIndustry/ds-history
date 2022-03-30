@@ -1,0 +1,23 @@
+body {
+    background-color: #cacaca;
+    font-family: "Sofia", sans-serif;
+}
+
+h1{
+    color: black;
+    font-size: 300%;
+}
+  
+p{
+    font-size: 100%;
+    color: black;
+}
+
+.Content{
+    background-color: #8d8d8d;
+    padding-left: 2%;
+    width: 60%;
+}
+.image{
+    float: left;
+}
