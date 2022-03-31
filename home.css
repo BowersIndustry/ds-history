@@ -17,6 +17,8 @@ p{
     background-color: #8d8d8d;
     padding-left: 2%;
     width: 60%;
+    padding-bottom: 1%;
+    padding-top: 0.01%;
 }
 .image{
     float: left;
